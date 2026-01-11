@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1 tvg-id="MovieA001" tvg-name=“Becker” tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Cafe_Society.jpg" group-title="Movies",Cafe Society
-https://sredirm8r2ydggkf-4730cv4costj.um1493.site-stream.com/v3/1-ZjIVm3jegy4yGv3oeyI9S1SfyRalNJ_1W9v3nC0hrkZtzO9SpubfGWg2M2vhNJuCEDHAVvVf7r_MaGVSzUc5q6gz0qC4dx68oZRLzK1nLU9IDKmlXfX4G5d81mflwSXYyDb73NKV1yP0zMoSd-nA/video.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=28j1o5&ut=premium&_u=m8r2ydggkf&_t=lkhr4l
+#EXTINF:-1 tvg-id="MovieA001" tvg-name=“Becker” tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Cafe_Society.jpg" group-title="Movies",Becker
+https://sredirm8r2ydggkf-4730cv4costj.um1280.site-stream.com/v3/JeSRN9SUxFbumRH850zv5z1buTkgBUwP0VzW96XglDTc0w-hEU1Jtteu4wc357zwEZxMT_UonSFk5YZxgW_2ONA5fVjRgluCKfDQ7rJe8NCE9Eds8BxskuxGsWWs7f-byP_zpDVjNtKgbaS-gzpULw/video.mp4
 #EXTINF:-1 tvg-id="MovieA002" tvg-name=“Chinatown tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Chinatownposter1.jpg" group-title="Movies",Chinatown
-https://sdu.sdx-sdx.com/6ubm813825/E4Cepv9coIYtUuvM4e9Yv6YbmFcMN2ClmlfdXHF9YFD0GU14EevIz2Q1v4QOmxpRltzz9OY2kpkMasaTXi7okZFx_YHHVhMUgmpPgHEZasv-QRNCdYTCQR9XZ9tM6WeMBPSJJvXwaCJTiq1ckALk7A/chinatown-1974-720.mp4?osh=29jnzZzm3OHYydyhy97g&ut=premium&_u=m8r2ydggkf&_t=ku4mao
-
+https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/7u0m113725/E4Cepv9coIYtUuvM4e9Yv6YbmFcMN2ClmlfdXHF9YFDAPY2hwpQUtnXbhMhZrerqK8MRqN7h8dhf8PxpxeIy8kJkYR25d3eaAC0xasT53XqJEeq1AF4KQlC4FLffv3DS5gFvTgWh8J_fCPLtkhrEqA/chinatown-1974-1080.mp4
