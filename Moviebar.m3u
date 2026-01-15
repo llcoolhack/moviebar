@@ -1,11 +1,347 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1 tvg-id="MovieA001" tvg-name=“Becker” tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Cafe_Society.jpg" group-title="Movies",Becker
-https://sredirm8r2ydggkf-4730cv4costj.um1325.site-stream.com/v3/IwjXIfsowNXSpMtMu_YZ-27X37CnwQ3zVUih1RW0QPVNuXhFC1Rk9pe-ifmFqP3Zx_ARppoz881oXtcjq4FMDLiW7qHaKls5S2_BAI2hcM29SP2UKn0KlhLgsyqAq8niX0rulcj7rPwMPPiN8l4mMg/video.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=7ktlht&ut=premium&_u=m8r2ydggkf&_t=a48bc0
-#EXTINF:-1 tvg-id="MovieA001" tvg-name=“Becker” tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Cafe_Society.jpg" group-title="Movies",Becker E9
-https://sredirm8r2ydggkf-4730cv4costj.um1325.site-stream.com/v3/fpkcuriocYcTAJbbWeoLLieU95-rcg43aYu3Ss5YYs_TkpUWoeanLszxbxaAFKUFn8no38NX4R3FUapdyVN2qsinI5PrZYJB71IZlBcI4HUz4LUOALpKd-Ykm4zy_HiZl7IgN8Sxdlat2JldlE3gDw/video.mp4
-#EXTINF:-1 tvg-id="MovieA001" tvg-name=“Becker” tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Cafe_Society.jpg" group-title="Movies",Becker 10
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/au8md13125/4k0E9-QyfO2rqvP_Nnspm5InIL1iO0XsBAmvHBbALAJYvW4mwMdK58_ismcf7HsG3Ok0UTuwx45hjDYxN608O8kWIhLTe4XRXdNdCzNP_CUIXXyJqHDdC8_VVwCrmunapw9vKC4OHfChuGOqorSsJg/becker-s01e10-720.mp4
-#EXTINF:-1 tvg-id="MovieA002" tvg-name="Mulholland Drive" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Mulholland.png" group-title="Movies",Mulholland Drive
-https://sredirm8r2ydggkf-4730cv4costj.um1325.site-stream.com/v3/E4Cepv9coIYtUuvM4e9Yv6YbmFcMN2ClmlfdXHF9YFCdsswuVm4_jBuW21INUUHCV-jb8a9yzSUkmHAXsgfBVzzRIaarRgZPzfpiXUpuUQD9PpR2VlAQVqXijpedhVVPDRI8f6vivqMmCsaQulqFYA/video.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6b90k6&ut=premium&_u=m8r2ydggkf&_t=1b1p95
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E01" tvg-logo="https://image.tmdb.org/t/p/w185/tPSWJz9OLVBl3w0KmddJv8tZsuH.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E01
+http://blucast.cc:80/series/Gino/12345678/791696.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E02" tvg-logo="https://image.tmdb.org/t/p/w185/8f0RMZ3BAgy1S4OI2aK4QgukDrj.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E02
+http://blucast.cc:80/series/Gino/12345678/791697.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E03" tvg-logo="https://image.tmdb.org/t/p/w185/7wS35P4fPkRO80lqJV7uHhUsIcz.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E03
+http://blucast.cc:80/series/Gino/12345678/791698.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E04" tvg-logo="https://image.tmdb.org/t/p/w185/uD28kB750gL2aAffCPIXyWrsw82.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E04
+http://blucast.cc:80/series/Gino/12345678/791699.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E05" tvg-logo="https://image.tmdb.org/t/p/w185/5gnfgDbZR9C2T312SOeIcspKAw5.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E05
+http://blucast.cc:80/series/Gino/12345678/791700.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E06" tvg-logo="https://image.tmdb.org/t/p/w185/f6l2h2ny8lXSFRHKIJ8lyfX8Tm9.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E06
+http://blucast.cc:80/series/Gino/12345678/791701.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E07" tvg-logo="https://image.tmdb.org/t/p/w185/ngf4SreHnzwTgxUhn1hqy6PDGVV.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E07
+http://blucast.cc:80/series/Gino/12345678/791702.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ji7nqaGjZZTZgJluhVWtPdECrrj.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E08
+http://blucast.cc:80/series/Gino/12345678/791703.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E09" tvg-logo="https://image.tmdb.org/t/p/w185/eEryTZKGbUHiqkAhRPiZpdq87np.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E09
+http://blucast.cc:80/series/Gino/12345678/791704.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E10" tvg-logo="https://image.tmdb.org/t/p/w185/su0lVRyBxtb2z8IlHzbofJ0707M.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E10
+http://blucast.cc:80/series/Gino/12345678/791705.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E11" tvg-logo="https://image.tmdb.org/t/p/w185/fm0U5nyfcgB6LT9Ihoa0osc0mcj.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E11
+http://blucast.cc:80/series/Gino/12345678/791706.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E12" tvg-logo="https://image.tmdb.org/t/p/w185/z0BlESXZSWY7VJ9ZAwEeDGsXKLz.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E12
+http://blucast.cc:80/series/Gino/12345678/791707.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S25 E13" tvg-logo="https://image.tmdb.org/t/p/w185/vQuFBtQEs4w1xt4b4WBFAcglrs0.jpg" group-title="Crime",Law & Order: Special Victims Unit S25 E13
+http://blucast.cc:80/series/Gino/12345678/791708.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E01" tvg-logo="https://image.tmdb.org/t/p/w185/lsYb8kHv1PrKUfzM0Y0x8GKHN8z.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E01
+http://blucast.cc:80/series/Gino/12345678/799311.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E02" tvg-logo="https://image.tmdb.org/t/p/w185/5HQxf0VFoVvROwODDhyEnO8BtJ0.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E02
+http://blucast.cc:80/series/Gino/12345678/799312.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E03" tvg-logo="https://image.tmdb.org/t/p/w185/5z4lKh3hEP6P8QUzrjXTXSK3T1P.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E03
+http://blucast.cc:80/series/Gino/12345678/799313.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E04" tvg-logo="https://image.tmdb.org/t/p/w185/ebjJbbTR29T1X7nOzhpND2lhiW4.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E04
+http://blucast.cc:80/series/Gino/12345678/799314.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E05" tvg-logo="https://image.tmdb.org/t/p/w185/hPWTpsw3vxLg0T7aVvJ97AVj7Y6.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E05
+http://blucast.cc:80/series/Gino/12345678/799315.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E06" tvg-logo="https://image.tmdb.org/t/p/w185/zHcnsfYvnlpRbNdPr5jLDbliniX.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E06
+http://blucast.cc:80/series/Gino/12345678/799316.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E07" tvg-logo="https://image.tmdb.org/t/p/w185/gsTsPLYbYtVg699x1MibfAc8ETG.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E07
+http://blucast.cc:80/series/Gino/12345678/799317.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ltYtocKvI4kaJGbRoFldsZNL5ks.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E08
+http://blucast.cc:80/series/Gino/12345678/799318.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E09" tvg-logo="https://image.tmdb.org/t/p/w185/17qbXQ6FvahUCtv88XwooUeqbNQ.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E09
+http://blucast.cc:80/series/Gino/12345678/799319.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E10" tvg-logo="https://image.tmdb.org/t/p/w185/1JsPk6hDSTXRbCaOSmtdukhkJKA.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E10
+http://blucast.cc:80/series/Gino/12345678/799320.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E11" tvg-logo="https://image.tmdb.org/t/p/w185/vLa0jFaBI45jhGkcHdaMTUY66xt.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E11
+http://blucast.cc:80/series/Gino/12345678/799321.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E12" tvg-logo="https://image.tmdb.org/t/p/w185/4EOmLihTRudhHeCa1FPA75GQzZu.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E12
+http://blucast.cc:80/series/Gino/12345678/799322.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E13" tvg-logo="https://image.tmdb.org/t/p/w185/bqcyctoWKYvxXiOlpNBv617ACUt.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E13
+http://blucast.cc:80/series/Gino/12345678/799323.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E14" tvg-logo="https://image.tmdb.org/t/p/w185/bHIzMkNYPPKjBqRTTSpGV1bb1lY.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E14
+http://blucast.cc:80/series/Gino/12345678/799324.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E15" tvg-logo="https://image.tmdb.org/t/p/w185/6TQToEfmfmAjS9eLjknHDnBdLRI.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E15
+http://blucast.cc:80/series/Gino/12345678/800055.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E16" tvg-logo="https://image.tmdb.org/t/p/w185/vYVMDphxn1Gqd0rkAgJPEdY1DOc.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E16
+http://blucast.cc:80/series/Gino/12345678/799326.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E17" tvg-logo="https://image.tmdb.org/t/p/w185/7dcYjhhRDMrjt6qI9uOPQpdrosO.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E17
+http://blucast.cc:80/series/Gino/12345678/799327.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E18" tvg-logo="https://image.tmdb.org/t/p/w185/y0obo5sZI6XSIqsHXM703PPR1am.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E18
+http://blucast.cc:80/series/Gino/12345678/799328.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E19" tvg-logo="https://image.tmdb.org/t/p/w185/cXeQJbwNdsR0mgyAzwpLlfZxwUl.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E19
+http://blucast.cc:80/series/Gino/12345678/799329.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E20" tvg-logo="https://image.tmdb.org/t/p/w185/7pwbSxePL7RfPcZ6HVT5QCC0p3k.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E20
+http://blucast.cc:80/series/Gino/12345678/799330.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E21" tvg-logo="https://image.tmdb.org/t/p/w185/51TYfua6XX5YMYrW9Fu0VYojDZP.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E21
+http://blucast.cc:80/series/Gino/12345678/799331.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S26 E22" tvg-logo="https://image.tmdb.org/t/p/w185/w4c2FjXtI77uwRIMkq8FDbbWZvf.jpg" group-title="Crime",Law & Order: Special Victims Unit S26 E22
+http://blucast.cc:80/series/Gino/12345678/799332.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E01" tvg-logo="https://image.tmdb.org/t/p/w185/asoNcTWmkVeXLjQGcuS6YgPnEny.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E01
+http://blucast.cc:80/series/Gino/12345678/791709.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E02" tvg-logo="https://image.tmdb.org/t/p/w185/98D4I09qipwjv58avZXQ7mcqudL.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E02
+http://blucast.cc:80/series/Gino/12345678/791710.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E03" tvg-logo="https://image.tmdb.org/t/p/w185/bcRM3RcWkVydUiq5OLLV7e4xlYL.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E03
+http://blucast.cc:80/series/Gino/12345678/791711.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E04" tvg-logo="https://image.tmdb.org/t/p/w185/gegnibKu5eSgNjFBlQqCU5H1glh.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E04
+http://blucast.cc:80/series/Gino/12345678/791712.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E05" tvg-logo="https://image.tmdb.org/t/p/w185/nltkZEULO27r1qWZ7RN1yGQUkvk.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E05
+http://blucast.cc:80/series/Gino/12345678/791713.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E06" tvg-logo="https://image.tmdb.org/t/p/w185/AkwjmGfq479mQol4hGfIm5NEogj.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E06
+http://blucast.cc:80/series/Gino/12345678/791714.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E07" tvg-logo="https://image.tmdb.org/t/p/w185/ynSWEa4OeKnahiTKAVnB22u6lU7.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E07
+http://blucast.cc:80/series/Gino/12345678/791715.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E08" tvg-logo="https://image.tmdb.org/t/p/w185/4FurXHeGH0KmNhjf5s52IDOnMBl.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E08
+http://blucast.cc:80/series/Gino/12345678/791716.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Law & Order: Special Victims Unit S27 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg" group-title="Crime",Law & Order: Special Victims Unit S27 E09
+http://blucast.cc:80/series/Gino/12345678/798774.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/9IIG7JrovcIOOsTmBsbHZrDhCWI.jpg" group-title="Comedy",Becker (1998) S01 E01
+http://blucast.cc:80/series/Gino/12345678/715363.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/fOMsWlKcieFe3zzIxea5w56OQgF.jpg" group-title="Comedy",Becker (1998) S01 E02
+http://blucast.cc:80/series/Gino/12345678/715364.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/p9GloTAzedJ9gmal3W2xZT4fhFh.jpg" group-title="Comedy",Becker (1998) S01 E03
+http://blucast.cc:80/series/Gino/12345678/715365.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/q4oNvuCYvLwOroV8I6vFFPh9hAK.jpg" group-title="Comedy",Becker (1998) S01 E04
+http://blucast.cc:80/series/Gino/12345678/715366.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/8ATBdC71CzrCrRBRQJjYTqfpmhW.jpg" group-title="Comedy",Becker (1998) S01 E05
+http://blucast.cc:80/series/Gino/12345678/715367.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/fUzeJh7hb29YvKoKNIjtCF0G10k.jpg" group-title="Comedy",Becker (1998) S01 E06
+http://blucast.cc:80/series/Gino/12345678/715368.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/uStS0845VEHsRsJuWoSUBSicvVD.jpg" group-title="Comedy",Becker (1998) S01 E07
+http://blucast.cc:80/series/Gino/12345678/715369.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/46fjampEYaX9831KCsz6YrCBeTf.jpg" group-title="Comedy",Becker (1998) S01 E08
+http://blucast.cc:80/series/Gino/12345678/715370.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/B5yh7LwjO3E2pw801v51sSyjhq.jpg" group-title="Comedy",Becker (1998) S01 E09
+http://blucast.cc:80/series/Gino/12345678/715371.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/A0OGawrBRWeMhgp8l3chovcNtWC.jpg" group-title="Comedy",Becker (1998) S01 E10
+http://blucast.cc:80/series/Gino/12345678/715372.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E11" tvg-logo="https://image.tmdb.org/t/p/w185/hA6LpOyTVzBX9ws08GsbmH7DnFS.jpg" group-title="Comedy",Becker (1998) S01 E11
+http://blucast.cc:80/series/Gino/12345678/715373.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w185/1FU907IwLtJDw7nxEwavSdjqPvf.jpg" group-title="Comedy",Becker (1998) S01 E12
+http://blucast.cc:80/series/Gino/12345678/715374.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w185/d4tMkCSoJu2pkaypUuYjhXHHR67.jpg" group-title="Comedy",Becker (1998) S01 E13
+http://blucast.cc:80/series/Gino/12345678/715375.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E14" tvg-logo="https://image.tmdb.org/t/p/w185/dxhiYcPWf5hSqU3shxq7Kn8dtxr.jpg" group-title="Comedy",Becker (1998) S01 E14
+http://blucast.cc:80/series/Gino/12345678/715376.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E15" tvg-logo="https://image.tmdb.org/t/p/w185/uaxGXYOIJjpbBimTYzeqcRkeHbJ.jpg" group-title="Comedy",Becker (1998) S01 E15
+http://blucast.cc:80/series/Gino/12345678/715377.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w185/nUnCbvDvgGcd8vmMpK983ahnmtE.jpg" group-title="Comedy",Becker (1998) S01 E16
+http://blucast.cc:80/series/Gino/12345678/715378.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w185/AjT0aadiY4wYhJmiFLKXY7eFgco.jpg" group-title="Comedy",Becker (1998) S01 E17
+http://blucast.cc:80/series/Gino/12345678/715379.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w185/wSLDEU9cJ1sScq1VuGMrhgcOrES.jpg" group-title="Comedy",Becker (1998) S01 E18
+http://blucast.cc:80/series/Gino/12345678/715380.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E19" tvg-logo="https://image.tmdb.org/t/p/w185/h968dDmf3DasWXisb2Pv7k4F2Da.jpg" group-title="Comedy",Becker (1998) S01 E19
+http://blucast.cc:80/series/Gino/12345678/715381.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w185/vcYuFAN77SCwaAMTwNTodcT7a5R.jpg" group-title="Comedy",Becker (1998) S01 E20
+http://blucast.cc:80/series/Gino/12345678/715382.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E21" tvg-logo="https://image.tmdb.org/t/p/w185/b5I1uBNekncIVctET6oEWOD27Db.jpg" group-title="Comedy",Becker (1998) S01 E21
+http://blucast.cc:80/series/Gino/12345678/715383.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S01 E22" tvg-logo="https://image.tmdb.org/t/p/w185/j56Bm37r88bNZl3chJ0XIoKptkY.jpg" group-title="Comedy",Becker (1998) S01 E22
+http://blucast.cc:80/series/Gino/12345678/715385.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/pJ4N7UvoXj5ADrIXIeERiNP8BIJ.jpg" group-title="Comedy",Becker (1998) S02 E01
+http://blucast.cc:80/series/Gino/12345678/715384.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/aGlGnGn4wAn7iZCLSK1srEtM1Bf.jpg" group-title="Comedy",Becker (1998) S02 E02
+http://blucast.cc:80/series/Gino/12345678/715386.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/icpWRGBn6bHMFhRREdqKi6eQO90.jpg" group-title="Comedy",Becker (1998) S02 E03
+http://blucast.cc:80/series/Gino/12345678/715387.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/pidMf7k95aU9oXOINf4HdjI2KiT.jpg" group-title="Comedy",Becker (1998) S02 E04
+http://blucast.cc:80/series/Gino/12345678/715388.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/wBdepAM0i4NLUHhNIbR6QQDzH0d.jpg" group-title="Comedy",Becker (1998) S02 E05
+http://blucast.cc:80/series/Gino/12345678/715389.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/wgs8oXCu9N3953yhYTncRcexegc.jpg" group-title="Comedy",Becker (1998) S02 E06
+http://blucast.cc:80/series/Gino/12345678/715390.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/y2cDhxtqUva1sGpfmW4QmAEEoJ6.jpg" group-title="Comedy",Becker (1998) S02 E07
+http://blucast.cc:80/series/Gino/12345678/715391.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/lX0II3AAGHgAXGlwZzQcrK4lxUV.jpg" group-title="Comedy",Becker (1998) S02 E08
+http://blucast.cc:80/series/Gino/12345678/715392.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E09" tvg-logo="https://image.tmdb.org/t/p/w185/klteYadpMp8cz8ArDHOP1zsEkNK.jpg" group-title="Comedy",Becker (1998) S02 E09
+http://blucast.cc:80/series/Gino/12345678/715393.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E10" tvg-logo="https://image.tmdb.org/t/p/w185/q4nu7iqPxWsu9sTsnFcYHOxb99W.jpg" group-title="Comedy",Becker (1998) S02 E10
+http://blucast.cc:80/series/Gino/12345678/715394.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E11" tvg-logo="https://image.tmdb.org/t/p/w185/2SgJoFkdWexbpBzlwNfbtmOlDdJ.jpg" group-title="Comedy",Becker (1998) S02 E11
+http://blucast.cc:80/series/Gino/12345678/715395.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E12" tvg-logo="https://image.tmdb.org/t/p/w185/nRQzZG90wrY1djg3nFqeIlOnec9.jpg" group-title="Comedy",Becker (1998) S02 E12
+http://blucast.cc:80/series/Gino/12345678/715397.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E13" tvg-logo="https://image.tmdb.org/t/p/w185/sZOXhk1S4PhGjCMBxHiI8Jyt0tX.jpg" group-title="Comedy",Becker (1998) S02 E13
+http://blucast.cc:80/series/Gino/12345678/715399.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E14" tvg-logo="https://image.tmdb.org/t/p/w185/6OyMNf3qFcNrfEuG5xWz1EkW2ls.jpg" group-title="Comedy",Becker (1998) S02 E14
+http://blucast.cc:80/series/Gino/12345678/715401.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E15" tvg-logo="https://image.tmdb.org/t/p/w185/zApPesaVfzEYaWB4q0JWrFfTsS9.jpg" group-title="Comedy",Becker (1998) S02 E15
+http://blucast.cc:80/series/Gino/12345678/715403.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E16" tvg-logo="https://image.tmdb.org/t/p/w185/ddHl3bOoBjnMOnNsNeqy3dFeDbv.jpg" group-title="Comedy",Becker (1998) S02 E16
+http://blucast.cc:80/series/Gino/12345678/715405.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E17" tvg-logo="https://image.tmdb.org/t/p/w185/pCWYEndAx6RXTqjmCKCoPIe2PG3.jpg" group-title="Comedy",Becker (1998) S02 E17
+http://blucast.cc:80/series/Gino/12345678/715407.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E18" tvg-logo="https://image.tmdb.org/t/p/w185/A0sNSimReGS6neOsEbA83GHnlBC.jpg" group-title="Comedy",Becker (1998) S02 E18
+http://blucast.cc:80/series/Gino/12345678/715409.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E19" tvg-logo="https://image.tmdb.org/t/p/w185/jqZDtqlVAFBsOWcb93QtUGQJCbi.jpg" group-title="Comedy",Becker (1998) S02 E19
+http://blucast.cc:80/series/Gino/12345678/715411.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E20" tvg-logo="https://image.tmdb.org/t/p/w185/dmMQor1PkptK79sTIbPWnxGBQQ3.jpg" group-title="Comedy",Becker (1998) S02 E20
+http://blucast.cc:80/series/Gino/12345678/715413.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E21" tvg-logo="https://image.tmdb.org/t/p/w185/3UTClpYRHtDL6no5pw5tzNMknl5.jpg" group-title="Comedy",Becker (1998) S02 E21
+http://blucast.cc:80/series/Gino/12345678/715415.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E22" tvg-logo="https://image.tmdb.org/t/p/w185/z53e5oGX0FqDnbff2PQSpIHkoKJ.jpg" group-title="Comedy",Becker (1998) S02 E22
+http://blucast.cc:80/series/Gino/12345678/715420.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E23" tvg-logo="https://image.tmdb.org/t/p/w185/xduToywA4JULrAol7f0qYIPHmYU.jpg" group-title="Comedy",Becker (1998) S02 E23
+http://blucast.cc:80/series/Gino/12345678/715423.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S02 E24" tvg-logo="https://image.tmdb.org/t/p/w185/w2B68QJUl7SbWNu9jsbUVq5ecpv.jpg" group-title="Comedy",Becker (1998) S02 E24
+http://blucast.cc:80/series/Gino/12345678/715426.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/txxh0yFglrqD6s5MLpxZYhwlDPf.jpg" group-title="Comedy",Becker (1998) S03 E01
+http://blucast.cc:80/series/Gino/12345678/715396.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4nhSq2wvW9JgTEBsxg6RLPtoeAz.jpg" group-title="Comedy",Becker (1998) S03 E02
+http://blucast.cc:80/series/Gino/12345678/715398.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/4IckHwVWXxGFd2YexcmlAZgon1L.jpg" group-title="Comedy",Becker (1998) S03 E03
+http://blucast.cc:80/series/Gino/12345678/715400.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/rznDQ3ionQtCfsI1YIYIn687eP3.jpg" group-title="Comedy",Becker (1998) S03 E04
+http://blucast.cc:80/series/Gino/12345678/715402.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E05" tvg-logo="https://image.tmdb.org/t/p/w185/kBY2xKOhkmMGvT1qSB4hTH0xlQ0.jpg" group-title="Comedy",Becker (1998) S03 E05
+http://blucast.cc:80/series/Gino/12345678/715404.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E06" tvg-logo="https://image.tmdb.org/t/p/w185/sgwEjFMo3usjrrsFe7Em5xaD1yS.jpg" group-title="Comedy",Becker (1998) S03 E06
+http://blucast.cc:80/series/Gino/12345678/715406.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E07" tvg-logo="https://image.tmdb.org/t/p/w185/5RrNWcPbKMls0wje1fMm6VcmewC.jpg" group-title="Comedy",Becker (1998) S03 E07
+http://blucast.cc:80/series/Gino/12345678/715408.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E08" tvg-logo="https://image.tmdb.org/t/p/w185/gm1PgKkho8CIyUN4Fd2fc1HuMqH.jpg" group-title="Comedy",Becker (1998) S03 E08
+http://blucast.cc:80/series/Gino/12345678/715410.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E09" tvg-logo="https://image.tmdb.org/t/p/w185/3TiFoeRweYlBTCqh9vpFaNcr6cA.jpg" group-title="Comedy",Becker (1998) S03 E09
+http://blucast.cc:80/series/Gino/12345678/715412.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E10" tvg-logo="https://image.tmdb.org/t/p/w185/hG03ee8MlxqwZn3HVpNcf9lc7Js.jpg" group-title="Comedy",Becker (1998) S03 E10
+http://blucast.cc:80/series/Gino/12345678/715414.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E11" tvg-logo="https://image.tmdb.org/t/p/w185/hqieTyLxfchAXApTnY5UKELVMHv.jpg" group-title="Comedy",Becker (1998) S03 E11
+http://blucast.cc:80/series/Gino/12345678/715417.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E12" tvg-logo="https://image.tmdb.org/t/p/w185/68UZj3BSJbGu5NhNwbS81rVbFb6.jpg" group-title="Comedy",Becker (1998) S03 E12
+http://blucast.cc:80/series/Gino/12345678/715419.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E13" tvg-logo="https://image.tmdb.org/t/p/w185/nT0YzK3sFACoeq8pAT9npjwicHq.jpg" group-title="Comedy",Becker (1998) S03 E13
+http://blucast.cc:80/series/Gino/12345678/715422.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E14" tvg-logo="https://image.tmdb.org/t/p/w185/lXEf419TnROAmOVTWhimXRVeRja.jpg" group-title="Comedy",Becker (1998) S03 E14
+http://blucast.cc:80/series/Gino/12345678/715425.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E15" tvg-logo="https://image.tmdb.org/t/p/w185/iTeu3rQOWyKKKUPnFDjQRv0bsBS.jpg" group-title="Comedy",Becker (1998) S03 E15
+http://blucast.cc:80/series/Gino/12345678/715428.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E16" tvg-logo="https://image.tmdb.org/t/p/w185/fNYYjZ0zf2fbY2WNxzrAPuTJuip.jpg" group-title="Comedy",Becker (1998) S03 E16
+http://blucast.cc:80/series/Gino/12345678/715430.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E17" tvg-logo="https://image.tmdb.org/t/p/w185/bc9Uxty8B8p30Sd092nQJRE51a9.jpg" group-title="Comedy",Becker (1998) S03 E17
+http://blucast.cc:80/series/Gino/12345678/715432.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E18" tvg-logo="https://image.tmdb.org/t/p/w185/dxguXpDLwV0uF5XHgaMnuapBvVX.jpg" group-title="Comedy",Becker (1998) S03 E18
+http://blucast.cc:80/series/Gino/12345678/715434.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E19" tvg-logo="https://image.tmdb.org/t/p/w185/30ZCLJPTWOJOfrXQbqrx42Y8O7B.jpg" group-title="Comedy",Becker (1998) S03 E19
+http://blucast.cc:80/series/Gino/12345678/715436.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E20" tvg-logo="https://image.tmdb.org/t/p/w185/slAJ6HHdVg25Y1LjMXxfNJE5Tf4.jpg" group-title="Comedy",Becker (1998) S03 E20
+http://blucast.cc:80/series/Gino/12345678/715438.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E21" tvg-logo="https://image.tmdb.org/t/p/w185/pSHAOjytJmrpvxvYCfFmZreBKLh.jpg" group-title="Comedy",Becker (1998) S03 E21
+http://blucast.cc:80/series/Gino/12345678/715440.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E22" tvg-logo="https://image.tmdb.org/t/p/w185/y8tahd4pZa0IRPoeNowqD9E37cy.jpg" group-title="Comedy",Becker (1998) S03 E22
+http://blucast.cc:80/series/Gino/12345678/715443.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E23" tvg-logo="https://image.tmdb.org/t/p/w185/AsifDNSxceKAZmOccWohDXc7hXF.jpg" group-title="Comedy",Becker (1998) S03 E23
+http://blucast.cc:80/series/Gino/12345678/715446.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S03 E24" tvg-logo="https://image.tmdb.org/t/p/w185/kC4fsrrMy3eyJdsqSu6V8808tgS.jpg" group-title="Comedy",Becker (1998) S03 E24
+http://blucast.cc:80/series/Gino/12345678/715449.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E01" tvg-logo="https://image.tmdb.org/t/p/w185/riF1ZB2A1AanqpPkFwkJCiYrBAU.jpg" group-title="Comedy",Becker (1998) S04 E01
+http://blucast.cc:80/series/Gino/12345678/715416.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E02" tvg-logo="https://image.tmdb.org/t/p/w185/eetv5Sqhf1TqxpoCQ0QbeNIUTF3.jpg" group-title="Comedy",Becker (1998) S04 E02
+http://blucast.cc:80/series/Gino/12345678/715418.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E03" tvg-logo="https://image.tmdb.org/t/p/w185/5TlgOaN2BSsst47NilgENl2BhL5.jpg" group-title="Comedy",Becker (1998) S04 E03
+http://blucast.cc:80/series/Gino/12345678/715421.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E04" tvg-logo="https://image.tmdb.org/t/p/w185/oDmrktcJAFggABxGVhpJdufouce.jpg" group-title="Comedy",Becker (1998) S04 E04
+http://blucast.cc:80/series/Gino/12345678/715424.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E05" tvg-logo="https://image.tmdb.org/t/p/w185/w9W0mqvk66yIFOZ0cCK0WKefow5.jpg" group-title="Comedy",Becker (1998) S04 E05
+http://blucast.cc:80/series/Gino/12345678/715427.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E06" tvg-logo="https://image.tmdb.org/t/p/w185/2jWsU5zeQ3lK4uPhn7GoVvCJ5Hs.jpg" group-title="Comedy",Becker (1998) S04 E06
+http://blucast.cc:80/series/Gino/12345678/715429.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E07" tvg-logo="https://image.tmdb.org/t/p/w185/Jv8Vfsw0YrN7Uh6p1d4gtXRjoD.jpg" group-title="Comedy",Becker (1998) S04 E07
+http://blucast.cc:80/series/Gino/12345678/715431.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E08" tvg-logo="https://image.tmdb.org/t/p/w185/o4ECu5HY9XFAOARAtH1fQRY0lP3.jpg" group-title="Comedy",Becker (1998) S04 E08
+http://blucast.cc:80/series/Gino/12345678/715433.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E09" tvg-logo="https://image.tmdb.org/t/p/w185/8L6sdUIr63tJodUnFkndmw1RZVF.jpg" group-title="Comedy",Becker (1998) S04 E09
+http://blucast.cc:80/series/Gino/12345678/715435.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E10" tvg-logo="https://image.tmdb.org/t/p/w185/beXF6VsZBNgvkeBhmpnudOcogdP.jpg" group-title="Comedy",Becker (1998) S04 E10
+http://blucast.cc:80/series/Gino/12345678/715437.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E11" tvg-logo="https://image.tmdb.org/t/p/w185/gPac2RTj2m2BDbu6xOTL3uT50pN.jpg" group-title="Comedy",Becker (1998) S04 E11
+http://blucast.cc:80/series/Gino/12345678/715439.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E12" tvg-logo="https://image.tmdb.org/t/p/w185/e8aide8oFb7uvpNrh2IBFwysUuZ.jpg" group-title="Comedy",Becker (1998) S04 E12
+http://blucast.cc:80/series/Gino/12345678/715442.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E13" tvg-logo="https://image.tmdb.org/t/p/w185/owv10wfUpDbVYtyT2flvJc4eGxd.jpg" group-title="Comedy",Becker (1998) S04 E13
+http://blucast.cc:80/series/Gino/12345678/715445.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E14" tvg-logo="https://image.tmdb.org/t/p/w185/ng04f1P1NBXgELh48y1BbQvQHAk.jpg" group-title="Comedy",Becker (1998) S04 E14
+http://blucast.cc:80/series/Gino/12345678/715448.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E15" tvg-logo="https://image.tmdb.org/t/p/w185/iiEZe8gCxw3ok8UF8vI7pMJjKZj.jpg" group-title="Comedy",Becker (1998) S04 E15
+http://blucast.cc:80/series/Gino/12345678/715451.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E16" tvg-logo="https://image.tmdb.org/t/p/w185/jyziYm3UanUqwo58zoiVGgZUG3C.jpg" group-title="Comedy",Becker (1998) S04 E16
+http://blucast.cc:80/series/Gino/12345678/715453.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E17" tvg-logo="https://image.tmdb.org/t/p/w185/eHSkgQIBblEDbVX6F1FnJhXRC3.jpg" group-title="Comedy",Becker (1998) S04 E17
+http://blucast.cc:80/series/Gino/12345678/715455.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E18" tvg-logo="https://image.tmdb.org/t/p/w185/nOharW2Wcp4TC0SjLgvyMLhTkt2.jpg" group-title="Comedy",Becker (1998) S04 E18
+http://blucast.cc:80/series/Gino/12345678/715457.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E19" tvg-logo="https://image.tmdb.org/t/p/w185/roTbgdOASl1cPnUbI90qvyHxsEu.jpg" group-title="Comedy",Becker (1998) S04 E19
+http://blucast.cc:80/series/Gino/12345678/715459.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E20" tvg-logo="https://image.tmdb.org/t/p/w185/qXm8mjE31Ecl0doxiosFzdPMvjD.jpg" group-title="Comedy",Becker (1998) S04 E20
+http://blucast.cc:80/series/Gino/12345678/715461.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E21" tvg-logo="https://image.tmdb.org/t/p/w185/ewCJF4REopQdIqUR02WULn5pmxP.jpg" group-title="Comedy",Becker (1998) S04 E21
+http://blucast.cc:80/series/Gino/12345678/715463.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E22" tvg-logo="https://image.tmdb.org/t/p/w185/hmR004aStmQU3Vx6GshCKvpv3yz.jpg" group-title="Comedy",Becker (1998) S04 E22
+http://blucast.cc:80/series/Gino/12345678/715464.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E23" tvg-logo="https://image.tmdb.org/t/p/w185/mNeIWg4rP5kXLuQpEqYDTroX6lr.jpg" group-title="Comedy",Becker (1998) S04 E23
+http://blucast.cc:80/series/Gino/12345678/715467.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S04 E24" tvg-logo="https://image.tmdb.org/t/p/w185/sQceI50gpyVyKDaVQAj4ai46qyT.jpg" group-title="Comedy",Becker (1998) S04 E24
+http://blucast.cc:80/series/Gino/12345678/715470.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E01" tvg-logo="https://image.tmdb.org/t/p/w185/pC9lnxUV4cohg69GaCnLiUZsqSR.jpg" group-title="Comedy",Becker (1998) S05 E01
+http://blucast.cc:80/series/Gino/12345678/715441.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E02" tvg-logo="https://image.tmdb.org/t/p/w185/dVLzoms8fNzXslOKhuy2vUs72Jg.jpg" group-title="Comedy",Becker (1998) S05 E02
+http://blucast.cc:80/series/Gino/12345678/715444.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E03" tvg-logo="https://image.tmdb.org/t/p/w185/qh7pQpe5rED3rBv6aJ5l3q9Do6D.jpg" group-title="Comedy",Becker (1998) S05 E03
+http://blucast.cc:80/series/Gino/12345678/715447.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E04" tvg-logo="https://image.tmdb.org/t/p/w185/o4KiPFFg2lPB3eqyTwb6SvBHpPt.jpg" group-title="Comedy",Becker (1998) S05 E04
+http://blucast.cc:80/series/Gino/12345678/715450.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E05" tvg-logo="https://image.tmdb.org/t/p/w185/awUO1GxKbO7CdqWrhe4gKzrX0lw.jpg" group-title="Comedy",Becker (1998) S05 E05
+http://blucast.cc:80/series/Gino/12345678/715452.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E06" tvg-logo="https://image.tmdb.org/t/p/w185/duQDigjhCMGr03x9a81iJgoHWrM.jpg" group-title="Comedy",Becker (1998) S05 E06
+http://blucast.cc:80/series/Gino/12345678/715454.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E07" tvg-logo="https://image.tmdb.org/t/p/w185/4bw3Hf9gyxZ5LCOjAKZNbcbi3Yy.jpg" group-title="Comedy",Becker (1998) S05 E07
+http://blucast.cc:80/series/Gino/12345678/715456.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E08" tvg-logo="https://image.tmdb.org/t/p/w185/pHYX6Abc5n7ii2lcGoxT2l9PNWr.jpg" group-title="Comedy",Becker (1998) S05 E08
+http://blucast.cc:80/series/Gino/12345678/715458.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E09" tvg-logo="https://image.tmdb.org/t/p/w185/8IIeTgY70eXfxNYi3eJu3gHGjgC.jpg" group-title="Comedy",Becker (1998) S05 E09
+http://blucast.cc:80/series/Gino/12345678/715460.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E10" tvg-logo="https://image.tmdb.org/t/p/w185/pLQyiM1NzmBCHcUss5tXfRJUmPz.jpg" group-title="Comedy",Becker (1998) S05 E10
+http://blucast.cc:80/series/Gino/12345678/715462.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E11" tvg-logo="https://image.tmdb.org/t/p/w185/akaipLTD3KhjPrIX5SwKwdQcbqt.jpg" group-title="Comedy",Becker (1998) S05 E11
+http://blucast.cc:80/series/Gino/12345678/715465.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E12" tvg-logo="https://image.tmdb.org/t/p/w185/jwZNTDbdiDYjiTTqOXLWe8FJK7a.jpg" group-title="Comedy",Becker (1998) S05 E12
+http://blucast.cc:80/series/Gino/12345678/715468.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E13" tvg-logo="https://image.tmdb.org/t/p/w185/fcI6ujfslJttNSe5uPW46CHrIU7.jpg" group-title="Comedy",Becker (1998) S05 E13
+http://blucast.cc:80/series/Gino/12345678/715471.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E14" tvg-logo="https://image.tmdb.org/t/p/w185/pG59rMEZxle6It21OAz1PbCuDw7.jpg" group-title="Comedy",Becker (1998) S05 E14
+http://blucast.cc:80/series/Gino/12345678/715473.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E15" tvg-logo="https://image.tmdb.org/t/p/w185/bTHIQfWFHLigIwo2bt7wVaA5l3R.jpg" group-title="Comedy",Becker (1998) S05 E15
+http://blucast.cc:80/series/Gino/12345678/715475.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E16" tvg-logo="https://image.tmdb.org/t/p/w185/48p1rijCAteRAGCm7dABo6t7Oiz.jpg" group-title="Comedy",Becker (1998) S05 E16
+http://blucast.cc:80/series/Gino/12345678/715477.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E18" tvg-logo="https://image.tmdb.org/t/p/w185/iWfTBHTq4lioNks1DiSJQKGINRK.jpg" group-title="Comedy",Becker (1998) S05 E18
+http://blucast.cc:80/series/Gino/12345678/715479.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E19" tvg-logo="https://image.tmdb.org/t/p/w185/y2X4yGYKfL6KUNglnmiX8JkBjkF.jpg" group-title="Comedy",Becker (1998) S05 E19
+http://blucast.cc:80/series/Gino/12345678/715481.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E20" tvg-logo="https://image.tmdb.org/t/p/w185/yD5hVXA5F17aro7P3Oy6moOniSs.jpg" group-title="Comedy",Becker (1998) S05 E20
+http://blucast.cc:80/series/Gino/12345678/715483.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E21" tvg-logo="https://image.tmdb.org/t/p/w185/8OExjJVNAA80OP2jjwPuZLj6xJn.jpg" group-title="Comedy",Becker (1998) S05 E21
+http://blucast.cc:80/series/Gino/12345678/715485.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S05 E22" tvg-logo="https://image.tmdb.org/t/p/w185/8Std54MAWCxegkK8GHr2SOLkF29.jpg" group-title="Comedy",Becker (1998) S05 E22
+http://blucast.cc:80/series/Gino/12345678/715487.avi
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E01" tvg-logo="https://image.tmdb.org/t/p/w185/mV0bCgGkl48RZpMgaq2mm1UZWyR.jpg" group-title="Comedy",Becker (1998) S06 E01
+http://blucast.cc:80/series/Gino/12345678/715466.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E02" tvg-logo="https://image.tmdb.org/t/p/w185/iej3yZLZ5E2M0d6t6thebvCSejw.jpg" group-title="Comedy",Becker (1998) S06 E02
+http://blucast.cc:80/series/Gino/12345678/715469.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E03" tvg-logo="https://image.tmdb.org/t/p/w185/i7V8zt4XGZLFbnNCxpdBWxIGj2E.jpg" group-title="Comedy",Becker (1998) S06 E03
+http://blucast.cc:80/series/Gino/12345678/715472.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E04" tvg-logo="https://image.tmdb.org/t/p/w185/cCRggtFWNlEC1hdbj7bOUD6rMT4.jpg" group-title="Comedy",Becker (1998) S06 E04
+http://blucast.cc:80/series/Gino/12345678/715474.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E05" tvg-logo="https://image.tmdb.org/t/p/w185/z3ERTvjE0rQzCG1McmOSqGciE0y.jpg" group-title="Comedy",Becker (1998) S06 E05
+http://blucast.cc:80/series/Gino/12345678/715476.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E06" tvg-logo="https://image.tmdb.org/t/p/w185/i4DtLsuydbx2IzQG0ICIUylqvtV.jpg" group-title="Comedy",Becker (1998) S06 E06
+http://blucast.cc:80/series/Gino/12345678/715478.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E07" tvg-logo="https://image.tmdb.org/t/p/w185/7IPYOlC9qtdZUuqIYx8Pp6UeeUy.jpg" group-title="Comedy",Becker (1998) S06 E07
+http://blucast.cc:80/series/Gino/12345678/715480.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E08" tvg-logo="https://image.tmdb.org/t/p/w185/wm5sIhSUU9AseaE9WCuH5ibfys2.jpg" group-title="Comedy",Becker (1998) S06 E08
+http://blucast.cc:80/series/Gino/12345678/715482.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E09" tvg-logo="https://image.tmdb.org/t/p/w185/35ycFoNBq3f1Zc5bULSbS8QYAhb.jpg" group-title="Comedy",Becker (1998) S06 E09
+http://blucast.cc:80/series/Gino/12345678/715484.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E10" tvg-logo="https://image.tmdb.org/t/p/w185/pSfHAZtky6G4LznvheMtCmTAVrb.jpg" group-title="Comedy",Becker (1998) S06 E10
+http://blucast.cc:80/series/Gino/12345678/715486.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E11" tvg-logo="https://image.tmdb.org/t/p/w185/mpi6HV7IXtFIiUzvXIwQ6q0Yj7n.jpg" group-title="Comedy",Becker (1998) S06 E11
+http://blucast.cc:80/series/Gino/12345678/715488.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E12" tvg-logo="https://image.tmdb.org/t/p/w185/Ar7lJcRPdnIUPJfny0hDGkYSCwV.jpg" group-title="Comedy",Becker (1998) S06 E12
+http://blucast.cc:80/series/Gino/12345678/715489.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Becker (1998) S06 E13" tvg-logo="https://image.tmdb.org/t/p/w185/u9SjVgcwDH8UP2OjYf6VBXp0Fgg.jpg" group-title="Comedy",Becker (1998) S06 E13
+http://blucast.cc:80/series/Gino/12345678/715490.mkv
