@@ -2,13 +2,13 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1 group-title="TV Series" tvg-name="Law & Order: Special Victims Unit - S25E01 - Tunnel Blind" tvg-logo="http://192.168.0.5:32400/library/metadata/3/thumb/1768718162?X-Plex-Token=qxv7_2zu7j3TmT3_ddbz",Law & Order: Special Victims Unit - S25E01 - Tunnel Blind
-http://192.168.0.5:8080/law-and-order-special-victims-unit-s25e01-720.mp4
+http://192.168.0.5:32400/library/parts/1/law-and-order-special-victims-unit-s25e01-720.mp4?download=1&X-Plex-Token=qxv7_2zu7j3TmT3_ddbz
 #EXTINF:-1 group-title="TV Series" tvg-name="Law & Order: Special Victims Unit - S25E02 - Truth Embargo" tvg-logo="http://192.168.0.5:32400/library/metadata/4/thumb/1768718162?X-Plex-Token=qxv7_2zu7j3TmT3_ddbz",Law & Order: Special Victims Unit - S25E02 - Truth Embargo
-http://192.168.0.5:8080/law-and-order-special-victims-unit-s25e02-720.mp4
+http://192.168.0.5:32400/library/parts/2/law-and-order-special-victims-unit-s25e02-720.mp4?download=1&X-Plex-Token=qxv7_2zu7j3TmT3_ddbz
 #EXTINF:-1 group-title="TV Series" tvg-name="Law & Order: Special Victims Unit - S25E03 - The Punch List" tvg-logo="http://192.168.0.5:32400/library/metadata/5/thumb/1768718163?X-Plex-Token=qxv7_2zu7j3TmT3_ddbz",Law & Order: Special Victims Unit - S25E03 - The Punch List
-http://192.168.0.5:8080/law-and-order-special-victims-unit-s25e03-720.mp4
+http://192.168.0.5:32400/library/parts/3/law-and-order-special-victims-unit-s25e03-720.mp4?download=1&X-Plex-Token=qxv7_2zu7j3TmT3_ddbz
 #EXTINF:-1 group-title="TV Series" tvg-name="Law & Order: Special Victims Unit - S25E04 - Duty to Report" tvg-logo="http://192.168.0.5:32400/library/metadata/6/thumb/1768718163?X-Plex-Token=qxv7_2zu7j3TmT3_ddbz",Law & Order: Special Victims Unit - S25E04 - Duty to Report
-http://192.168.0.5:8080/law-and-order-special-victims-unit-s25e04-720.mp4
+http://192.168.0.5:32400/library/parts/4/law-and-order-special-victims-unit-s25e04-720.mp4?download=1&X-Plex-Token=qxv7_2zu7j3TmT3_ddbz
 #EXTINF:-1,Law & Order: Special Victims Unit S25 E05
 http://proxpanel.live:80/series/Ronald/Ronald1/791700.mkv
 #EXTINF:-1,Law & Order: Special Victims Unit S25 E06
